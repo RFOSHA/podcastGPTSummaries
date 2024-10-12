@@ -1,0 +1,125 @@
+{
+  "podcasts": [
+    {
+      "channel": "Fantasy Footballers",
+      "youtube_id": "UC-No2ITxJsNt50oJQ3fLmUA",
+      "active": true,
+      "prompt": "Summarize the hosts' opinions on the players mentioned in the podcast. Highlight any key data points, player performance trends, or team trends discussed. Additionally, list any valuable waiver wire options recommended by the hosts and provide context for why they are worth considering. If trade values are discussed, indicate whether players are considered good trade-for or trade-away candidates.",
+      "include_live": false
+    },
+    {
+      "channel": "Thoughtful Money",
+      "youtube_id": "UCjqe6xtZYTfvA4pHs0HgJsQ",
+      "active": true,
+      "prompt": "Summarize the market commentary in this podcast, focusing on the hosts' or guests' opinions on where the market might be headed and the reasons behind their predictions. Highlight any data points or trends mentioned that support their viewpoints. Additionally, note any investment recommendations, including specific sectors or stocks that the hosts believe are attractive, and explain the rationale behind these recommendations.",
+      "include_live": false
+    },
+    {
+      "channel": "Huberman Lab",
+      "youtube_id": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "active": true,
+      "prompt": "Summarize the key takeaways from this episode of the Huberman Lab podcast, explaining why the protocols discussed make sense based on the science or research mentioned. Highlight any actionable steps or tangible recommendations provided for improving one's health or life, and explain the reasoning behind these practices.",
+      "include_live": false
+    },
+    {
+      "channel": "Fantasy Pros",
+      "youtube_id": "UCZYaxEBdyKDsZfq_JGZwIeQ",
+      "active": true,
+      "prompt": "Summarize the hosts' opinions on the players mentioned in the podcast, indicating whether they are considered good trade-for or trade-away candidates. Highlight any key data points, player performance trends, or team trends discussed. Additionally, list any valuable waiver wire options recommended by the hosts and provide context for why they are worth considering.",
+      "include_live": true
+    },
+    {
+      "channel": "Modern Wisdom",
+      "youtube_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "active": true,
+      "prompt": "Summarize the key topic of this episode of the Modern Wisdom podcast, detailing the main discussion points and extracting key pieces of wisdom from the host or guest, including any insightful quotes. Highlight any actionable advice provided and any recommendations, whether they are for books, tools, or practices, that the hosts or guests suggest.",
+      "include_live": false
+    },
+    {
+      "channel": "Data with Zach",
+      "youtube_id": "UCAq9f7jFEA7Mtl3qOZy2h1A",
+      "active": true,
+      "prompt": "Summarize the main themes discussed in this podcast, focusing on the hosts' opinions about trends and developments in data engineering and analytics. Highlight any new tools, techniques, or frameworks mentioned, along with their potential impact on the industry. Additionally, note any recommendations the hosts provide for enhancing skills in data engineering or analytics, including learning resources, practices, or technologies they suggest.",
+      "include_live": false
+    },
+    {
+      "channel": "George Gammon",
+      "youtube_id": "UCpvyOqtEc86X8w8_Se0t4-w",
+      "active": true,
+      "prompt": "Summarize the market commentary in this podcast, focusing on the hosts' or guests' opinions on where the market might be headed and the reasons behind their predictions. Highlight any data points or trends mentioned that support their viewpoints. Additionally, note any investment recommendations, including specific sectors or stocks that the hosts believe are attractive, and explain the rationale behind these recommendations.",
+      "include_live": true
+    },
+    {
+      "channel": "Seattle Data Guy",
+      "youtube_id": "UCmLGJ3VYBcfRaWbP6JLJcpA",
+      "active": true,
+      "prompt": "Summarize the main themes discussed in this podcast, focusing on the hosts' opinions about trends and developments in data engineering and analytics. Highlight any new tools, techniques, or frameworks mentioned, along with their potential impact on the industry. Additionally, note any recommendations the hosts provide for enhancing skills in data engineering or analytics, including learning resources, practices, or technologies they suggest.",
+      "include_live": false
+    },
+    {
+      "channel": "Iron Culture",
+      "youtube_id": "UCEGGAs257niPVJ5BvXymVLQ",
+      "active": false,
+      "prompt": "Summarize the key takeaways from this episode, focusing on the hosts' or guests' discussion about lifting protocols and health strategies. Explain why certain lifting or health protocols make sense based on the reasoning or science provided. Highlight any actionable tips or tangible steps mentioned for improving strength, fitness, or overall health, and include any specific recommendations for exercises, routines, or lifestyle habits",
+      "include_live": false
+    },
+    {
+      "channel": "Data Center Hawk",
+      "youtube_id": "UCBkYGX8zdNH0rdBwRq5jk1Q",
+      "active": true,
+      "prompt": "Summarize the market commentary from this podcast, focusing on the hosts' or guests' views on where the data center market is headed and the reasons behind their predictions. Highlight any data points, trends, or technological shifts that support their insights. Additionally, include any recommendations or advice provided, whether related to investment opportunities, emerging technologies, or best practices within the data center industry. Include the name of the guests and where they work in the summary.",
+      "include_live": false
+    },
+    {
+      "channel": "Fantasy Football Today",
+      "youtube_id": "UCviK78rIWXhZdFzJ1Woi7Fg",
+      "active": true,
+      "prompt": "Provide a detailed summary of the hosts' opinions on the players mentioned in the podcast. If specific stats or trends are mentioned highlight those. If players are mentioned as good trade for or trade away candidates then provide that in the summary. Additionally, list any valuable waiver wire options recommended by the hosts and provide context for why they are worth considering.",
+      "include_live": true
+    },
+    {
+      "channel": "Fantasy Footballers DFS",
+      "youtube_id": "UCrtyqLtvoVzVAGzJTv3v7WQ",
+      "active": true,
+      "prompt": "Summarize the hosts' opinions on the players mentioned in the podcast. Highlight the players that are good cash plays and good tournament plays. Also highlight the players that are worth avoiding. If there is mention of players with low roster ownership then that is noteworhty. Summarize the best games on the slate and potential stacks.",
+      "include_live": false
+    },
+    {
+      "channel": "Renaissance Periodization",
+      "youtube_id": "UCfQgsKhHjSyRLOp9mnffqVg",
+      "active": false,
+      "prompt": "Summarize the key takeaways from this episode, focusing on the hosts' or guests' discussion about lifting protocols and health strategies. Explain why certain lifting or health protocols make sense based on the reasoning or science provided. Highlight any actionable tips or tangible steps mentioned for improving strength, fitness, or overall health, and include any specific recommendations for exercises, routines, or lifestyle habits",
+      "include_live": false
+    },
+    {
+      "channel": "Zeihan on Geopolitics",
+      "youtube_id": "UCsy9I56PY3IngCf_VGjunMQ",
+      "active": true,
+      "prompt": "Provide a detailed summary of the main themes discussed in this podcast, highlighting the hosts' opinions on key geopolitical issues. Include any underlying trends or data points that support their views. Focus on significant global events, power dynamics, or policy changes mentioned, and explain how these factors are shaping the geopolitical landscape according to the hosts.",
+      "include_live": false
+    },
+    {
+      "channel": "Rebel Capitalist",
+      "youtube_id": "UCNjyEXSvYUUCzagFAKmaJ1Q",
+      "active": true,
+      "prompt": "Summarize the market commentary in this podcast, focusing on the hosts' or guests' opinions on where the market might be headed and the reasons behind their predictions. Highlight any data points or trends mentioned that support their viewpoints. Additionally, note any investment recommendations, including specific sectors or stocks that the hosts believe are attractive, and explain the rationale behind these recommendations.",
+      "include_live": true
+    },
+    {
+      "channel": "Tim Ferriss",
+      "youtube_id": "UCznv7Vf9nBdJYvBagFdAHWw",
+      "active": true,
+      "prompt": "Summarize the key topic of this episode of the Modern Wisdom podcast, detailing the main discussion points and extracting key pieces of wisdom from the host or guest, including any insightful quotes. Highlight any actionable advice provided and any recommendations, whether they are for books, tools, or practices, that the hosts or guests suggest.",
+      "include_live": false
+    },
+    {
+      "channel": "Motley Fool Money",
+      "youtube_id": "",
+      "active": true,
+      "prompt": "Summarize the market commentary in this podcast episode, focusing on the performance of the stocks mentioned as well as any investment recommendations or opinions provided by the hosts. Highlight any market, stock, or sector trends.",
+      "include_live": false
+    }
+  ]
+}
+
+

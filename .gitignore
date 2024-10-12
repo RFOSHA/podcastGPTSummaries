@@ -1,0 +1,11 @@
+channelsCopy.json
+backUpYTVideoInfo.py
+config.py
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE-specific files
+.idea/
+.vscode/
+venv/
